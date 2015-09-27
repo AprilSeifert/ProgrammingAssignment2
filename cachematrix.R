@@ -1,7 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Unfortunately, my family showed up today, and I doubt I'll have time to finish the
+## assignment
 
-## Write a short comment describing this function
+## What is represented below is an initial shell I created to get started.
+## To whomever is grading this, I don't want you to waste your time trying to figure out if
+## it runs. It's not anywhere near my finished product.
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
@@ -18,7 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## This should have worked with my cached data.
 
 cacheSolve <- function(x, ...) {
         m <- x$getinverse()
